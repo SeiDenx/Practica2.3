@@ -1,17 +1,16 @@
 body{
-    background-color: rgb(128, 224, 236);
+    background-color: rgb(201, 240, 245);
     font-family: sans-serif;
 }
 
-/* Header */
-
+/* Cabecera */
 .tituloPrincipal{
     text-decoration: underline ;
     text-align: center;
     font-size: 45px;
 }
 
-/* Main */
+/* Principal */
 .titulo {
     font-size: 32px;
     background-color: rgb(64, 153, 191) ;
@@ -36,6 +35,7 @@ pre{
     background-color: whitesmoke;
 }
 
+/* Pie de página */
 footer{
     text-align: right;
 }
