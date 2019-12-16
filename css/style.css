@@ -4,7 +4,7 @@ body{
 }
 
 /* Cabecera */
-.tituloPrincipal{
+.tituloPrincipal {
     text-decoration: underline ;
     text-align: center;
     font-size: 45px;
@@ -21,22 +21,22 @@ body{
     text-align: justify;
 }
 
-span{
+span {
     font-style: italic;
 }
 
-.titulo2{
+.titulo2 {
     font-size: 26px;
     color: whitesmoke;
     background-color: rgb(121, 184, 210);
 }
 
-pre{
+pre {
     background-color: whitesmoke;
 }
 
 /* Pie de página */
-footer{
+footer {
     text-align: right;
 }
 
